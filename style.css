@@ -1,0 +1,175 @@
+.login-item{
+    margin-left: 180px;
+}
+.signup-item{
+    margin-right: 15px;
+
+}
+
+.nav-link{
+    margin-left: 30px;
+    
+}
+.navbar-brand{
+    
+    font-size: 32px ;
+    
+}
+.navbar-brand a{
+    color: black;
+}
+
+
+.d-flex{
+    margin-right: 25px;
+
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: rgb(250, 252, 251);
+}
+
+.hero-image{
+    background-image: url("https://images.unsplash.com/photo-1586783509992-bcfa7fe443b8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80");
+    background-size: cover;
+    height:470px;
+    width: 1150px;
+    margin-left:100px ;
+    margin-top:50px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: -.02em;
+    margin-top: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin-right:9px ;
+   
+}
+
+
+
+
+.hero-icon{
+    height: 30px;
+    color: white;
+    margin-left:740px;
+    margin-bottom: 20px;
+}
+
+.hero-para{
+    color: white;
+    margin-bottom: 11px;
+    margin-left: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    margin-top: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.column{
+    margin-top: 18px;
+    display: block;
+    float: left;
+    width: 32.5%;
+    margin-left: 9px;
+}
+
+img{
+    width: 100%;
+    padding-bottom: 1%
+    
+    
+}
+
+.footercontainer{
+    width: 100%;
+    padding: 70px 30px 20px;
+}
+
+.socialmedia{
+    display: flex;
+    justify-content: center;
+}
+.socialmedia a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 40%;
+}
+.socialmedia a i{
+    font-size: 2em;
+    color: black;
+    opacity: 0.9;
+}
+
+.socialmedia a:hover{
+    background-color: #111;
+    transition: 0.5s;
+}
+
+.socialmedia a:hover i{
+    color: white;
+    transition: 0.5s;
+}
+
+.footernav{
+    margin: 30px 0;
+}
+
+.footernav ul{
+    display: flex;
+    justify-content: center;
+}
+
+.footernav ul li a{
+    color: black;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 1.3em;
+    opacity: 0.7;
+    transition: 0.5s;
+}
+
+ul{
+    list-style-type: none;
+}
+
+hr{
+    margin-top: 40px;
+}
+
+
+.discover-icon{
+    margin-left: 7px;
+   font-size: 30px;
+}
+
